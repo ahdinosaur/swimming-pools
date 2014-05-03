@@ -61,10 +61,10 @@ Pass out (Code) Wake up (Code)
 Faded (Code) Faded (Code)
 
 [Break]
-I code, you code, push
-One terminal, one hundred commits, push
-Hop out, do you push?
-Two terminals, two hundred commits, push
+I code, you code, commit
+One terminal, one hundred lines, commit
+Hop out, do you commit?
+Two terminals, two hundred lines, commit
 
 [Hook]
 "Friend, why you babysitting only two or three files?
