@@ -2,7 +2,7 @@
 
 ```
 [Bridge]
-Pour up (Code) Head shot (Code)
+Key press (Code) Git push (Code)
 Sit down (Code) Stand up (Code)
 Pass out (Code) Wake up (Code)
 Faded (Code) Faded (Code)
@@ -10,7 +10,7 @@ Faded (Code) Faded (Code)
 [Verse 1]
 Now I done grew up 'round some people livin' their life in terminals
 Granddaddy had the golden keyboard, backspace every day in Arizona
-Some people like the way it feels, some people wanna kill their sorrows
+Some people like the way it feels, some people wanna save the world
 Some people wanna fit in with the popular, that was my problem
 I was in a dark room, loud fans, looking to make a vow soon
 That I'ma get commits, fillin' up my stash, I see the code move
@@ -28,7 +28,7 @@ I got an GitHub full of repos and they dive in it
 GitHub full of repos, I'mma dive in it
 
 [Bridge]
-Pour up (Code) Head shot (Code)
+Key press (Code) Git push (Code)
 Sit down (Code) Stand up (Code)
 Pass out (Code) Wake up (Code)
 Faded (Code) Faded (Code)
@@ -55,7 +55,7 @@ I got an GitHub full of repos and they dive in it
 GitHub full of repos, I'mma dive in it
 
 [Bridge]
-Pour up (Code) Head shot (Code)
+Key press (Code) Git push (Code)
 Sit down (Code) Stand up (Code)
 Pass out (Code) Wake up (Code)
 Faded (Code) Faded (Code)
@@ -77,7 +77,7 @@ I got an GitHub full of repos and they dive in it
 GitHub full of repos, I'mma dive in it
 
 [Bridge]
-Pour up (Code) Head shot (Code)
+Key press (Code) Git push (Code)
 Sit down (Code) Stand up (Code)
 Pass out (Code) Wake up (Code)
 Faded (Code) Faded (Code)
