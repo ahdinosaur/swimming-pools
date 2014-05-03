@@ -24,7 +24,7 @@ First you get a GitHub full of repos, then you dive in it
 GitHub full of repos, then you dive in it
 I wave a few commits, then I watch 'em all flock
 All the coders wanna play Facebook
-I got an GitHub full of repos and they dive in it
+I got a GitHub full of repos and they dive in it
 GitHub full of repos, I'mma dive in it
 
 [Bridge]
@@ -51,7 +51,7 @@ First you get a GitHub full of repos, then you dive in it
 GitHub full of repos, then you dive in it
 I wave a few commits, then I watch 'em all flock
 All the coders wanna play Facebook
-I got an GitHub full of repos and they dive in it
+I got a GitHub full of repos and they dive in it
 GitHub full of repos, I'mma dive in it
 
 [Bridge]
@@ -73,7 +73,7 @@ First you get a GitHub full of repos, then you dive in it
 GitHub full of repos, then you dive in it
 I wave a few commits, then I watch 'em all flock
 All the coders wanna play Facebook
-I got an GitHub full of repos and they dive in it
+I got a GitHub full of repos and they dive in it
 GitHub full of repos, I'mma dive in it
 
 [Bridge]
